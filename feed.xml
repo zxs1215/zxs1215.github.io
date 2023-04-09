@@ -1,16 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-07T10:23:25+08:00</updated><id>http://localhost:4000/</id><title type="html">zanxas’s Blog</title><subtitle>随笔</subtitle><entry><title type="html">地图生成</title><link href="http://localhost:4000/srpg/2018/04/07/MapGenerate.html" rel="alternate" type="text/html" title="地图生成" /><published>2018-04-07T10:21:00+08:00</published><updated>2018-04-07T10:21:00+08:00</updated><id>http://localhost:4000/srpg/2018/04/07/MapGenerate</id><content type="html" xml:base="http://localhost:4000/srpg/2018/04/07/MapGenerate.html">&lt;p&gt;尝试制作地图生成功能，基本设想是通过yaml配置文件，自动生成地图信息。
-结果看到了Unity内置的TileMap功能，于是就想能不能用Unity的这个功能来做。&lt;/p&gt;</content><author><name></name></author><summary type="html">尝试制作地图生成功能，基本设想是通过yaml配置文件，自动生成地图信息。 结果看到了Unity内置的TileMap功能，于是就想能不能用Unity的这个功能来做。</summary></entry><entry><title type="html">目标</title><link href="http://localhost:4000/personal/2018/04/06/Target.html" rel="alternate" type="text/html" title="目标" /><published>2018-04-06T10:07:00+08:00</published><updated>2018-04-06T10:07:00+08:00</updated><id>http://localhost:4000/personal/2018/04/06/Target</id><content type="html" xml:base="http://localhost:4000/personal/2018/04/06/Target.html">&lt;p&gt;我想做一个SRPG游戏，我还是比较喜欢战棋类RPG的，印象中比较美好的回忆有《曹操传》、《圣女贞德》、《英雄无敌》等。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-09T01:13:53+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">zxs</title><subtitle>我的想法</subtitle><entry><title type="html">道德经理解</title><link href="http://localhost:4000/2023/04/08/Taoist.html" rel="alternate" type="text/html" title="道德经理解" /><published>2023-04-08T00:00:00+08:00</published><updated>2023-04-08T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/08/Taoist</id><content type="html" xml:base="http://localhost:4000/2023/04/08/Taoist.html"><![CDATA[<h2 id="道德经的核心---为无为">道德经的核心 - 为无为</h2>
+<p>如何理解 <strong>为无为</strong> ？  <br />
+   我的理解： 不做事也是一种做事方法  <br />
+   做事和不做事结合起来就是正确的做事方法。  <br />
+   所以知道什么事情该做什么事情不该做，很重要，这个在道德经里称为道。我称之为法则。    <br />
+   那么如何获取法则呢？前人的经验，然后自己去实践，通过失败或成功的案例，去分析，然后获取其中的法则。    <br />
+   所以道家并不是叫你什么事情都不干，它是鼓励实践的。实践是得’道’的重要手段。</p>
 
-&lt;p&gt;打算自己先做一个简单的SRPG，然后做一个SRPG的引擎，再用这个引擎来实现我喜欢的一些小说和动漫的故事。&lt;/p&gt;
+<h2 id="延伸一-道家的成败观">延伸一 、道家的成败观</h2>
+<p>道家的世界里，成功或失败的经验是获取法则的必要条件。法则才是重点，成功或失败重要，但没那么重要。   <br />
+   不以成功为荣，不以失败为耻。    <br />
+   唯一值得高兴的是，我离法则近了一步。    <br />
+   举个简单的例子，你来到一个陌生的城市，完全不熟悉当地的环境。找到一个想去的地方，值得高兴吗？      <br />
+   找的路上迷路了，值得悲伤吗？都是无关紧要的，重要的是我们要在寻访的过程中，熟悉当地的环境，在自己心中形成一张城市的地图。     <br />
+   道不可得，就像地图永远会变，地图要定期测绘更新，我们也要不停实践更新法则。</p>
 
-&lt;p&gt;技术选型，就用Unity3d吧。做出来的SRPG引擎还可以放AssetsStore卖钱。&lt;/p&gt;
+<h2 id="为无为实践">为无为实践</h2>
+<h3 id="治脚气">治脚气</h3>
+<p>我曾经有很严重的脚气，但自从我顿悟以后，脚气只在雨季鞋子湿透的情况下复发过。          <br />
+   治疗脚气的法则：保持干燥的脚部环境、不能挠、不能戳破水泡、药物止痒、上药坚持两周以上。   <br />
+   遵守法则的做法：塞点卫生纸到脚缝间，保持干燥。不挠，不刺水泡，随身携带药膏，痒了就上药，买点那种止痒效果强的。每天晚上洗完脚就上药。执行个两周，脚气就消失了。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[道德经的核心 - 为无为 如何理解 为无为 ？ 我的理解： 不做事也是一种做事方法 做事和不做事结合起来就是正确的做事方法。 所以知道什么事情该做什么事情不该做，很重要，这个在道德经里称为道。我称之为法则。 那么如何获取法则呢？前人的经验，然后自己去实践，通过失败或成功的案例，去分析，然后获取其中的法则。 所以道家并不是叫你什么事情都不干，它是鼓励实践的。实践是得’道’的重要手段。]]></summary></entry><entry><title type="html">情绪论</title><link href="http://localhost:4000/2023/04/07/emo01.html" rel="alternate" type="text/html" title="情绪论" /><published>2023-04-07T00:00:00+08:00</published><updated>2023-04-07T00:00:00+08:00</updated><id>http://localhost:4000/2023/04/07/emo01</id><content type="html" xml:base="http://localhost:4000/2023/04/07/emo01.html"><![CDATA[<h2 id="前言-文章目的">前言 文章目的</h2>
+<p>现代很多人控制不住自己的情绪，随意释放它，导致人生悲剧。<br />
+写文目的就是让大家理解情绪，学会控制情绪，和自己的情绪和平相处。</p>
+<h2 id="一-何为情绪">一 何为情绪</h2>
+<p>情绪，人面对外界事物时的主观体验，包含：喜怒哀惧爱恶欲。</p>
+<h2 id="二-情绪分类">二 情绪分类</h2>
+<p>主观意念为主引发的情绪：<strong>喜怒哀爱恶</strong><br />
+客观因素为主引发的情绪：<strong>惧恶欲</strong></p>
+<h2 id="二一分类的依据">二.一分类的依据</h2>
+<h3 id="客观型我又称之为不可控型它不是重点所以先讲">客观型我又称之为不可控型，它不是重点，所以先讲</h3>
+<p><strong>恐惧、紧张、焦虑</strong> 这一类的情绪，很大一部分是来源于未知，是人面对未知的自然生理反应，根本就不可控。你需要了解它感受它，放弃掌控未知的妄想，直面你未知的东西。  <br />
+  直面未知以后，这一类情绪的影响会降到最低，但永远不能根除。</p>
 
-&lt;p&gt;比较想实现的场景是海贼王的顶上战争，马林佛多。&lt;/p&gt;</content><author><name></name></author><summary type="html">我想做一个SRPG游戏，我还是比较喜欢战棋类RPG的，印象中比较美好的回忆有《曹操传》、《圣女贞德》、《英雄无敌》等。</summary></entry><entry><title type="html">一些个人的想法</title><link href="http://localhost:4000/personal/2018/04/04/Thought.html" rel="alternate" type="text/html" title="一些个人的想法" /><published>2018-04-04T11:23:00+08:00</published><updated>2018-04-04T11:23:00+08:00</updated><id>http://localhost:4000/personal/2018/04/04/Thought</id><content type="html" xml:base="http://localhost:4000/personal/2018/04/04/Thought.html">&lt;p&gt;想自己做个东西，然后能养活自己&lt;/p&gt;</content><author><name></name></author><summary type="html">想自己做个东西，然后能养活自己</summary></entry><entry><title type="html">提高代码水平的方法</title><link href="http://localhost:4000/software/engine/2018/04/03/LevelUp.html" rel="alternate" type="text/html" title="提高代码水平的方法" /><published>2018-04-03T21:51:06+08:00</published><updated>2018-04-03T21:51:06+08:00</updated><id>http://localhost:4000/software/engine/2018/04/03/LevelUp</id><content type="html" xml:base="http://localhost:4000/software/engine/2018/04/03/LevelUp.html">&lt;h4 id=&quot;尝试项目重构&quot;&gt;尝试项目重构&lt;/h4&gt;
-&lt;ol&gt;
-  &lt;li&gt;查找项目中的重复代码&lt;/li&gt;
-  &lt;li&gt;重新编写代码&lt;/li&gt;
-  &lt;li&gt;单元测试通过&lt;/li&gt;
-  &lt;li&gt;合并代码&lt;/li&gt;
-&lt;/ol&gt;
+<p><strong>恶</strong>，其中一部分属于生理类，譬如你闻到臭味会觉得恶心讨厌。另一部分属于心理类，你会因为某件事讨厌某个人。  生理的恶属于身体的保护机制，防止你误食有害的东西，这个可以完全不管。</p>
 
-&lt;h4 id=&quot;尝试写工具自动生成那些重复的功能-工具链&quot;&gt;尝试写工具自动生成那些重复的功能-工具链&lt;/h4&gt;</content><author><name></name></author><summary type="html">尝试项目重构 查找项目中的重复代码 重新编写代码 单元测试通过 合并代码</summary></entry></feed>
+<p><strong>欲</strong>，纯生理机制引发的，如食欲性欲等。也有很多看似与生理无关的欲望，但究其根本也是生理引起的，如玩游戏，看电视之类的欲望源自于大脑更深层对学习的奖惩机制。欲这种情绪也不用太管，只要别太放纵伤身体，随便怎么处理都行。</p>
+
+<h3 id="主观型情绪--文章的重点">主观型情绪  文章的重点</h3>
+<p>主观类的情绪，引发这类情绪的原因是 <strong>期望与现实之间的差距</strong>  <br />
+  现实高于期望，喜不胜收  <br />
+  现实低于期望，可归因于他人他物，怒从中来。  <br />
+  如有人约会放鸽子，对方的错，让我约会的期望落空了，很生气。  <br />
+  现实低于期望，无可奈何，悲伤欲绝。  <br />
+  如亲人离世，期望他活着，但现实却是死了。很难接受，无法归因于任何人，也无法改变，只能悲伤。 <br />
+  现实略低于期望，与自己无直接关联，轻微厌恶</p>
+
+<h2 id="三如何控制主观型情绪">三如何控制主观型情绪</h2>
+<p>既然情绪源于期望与现实的不同，那么解决办法就是：</p>
+<blockquote>
+  <p>1改变现实 <br />
+  2改变期待</p>
+</blockquote>
+
+<p>然而现实是极难改变的，如果有能力的话，当然是改变现实最好。
+  但通常的解决办法就是改变期待，去认识一个真实的世界，不要对其他人有过高的不切实际的期待。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[前言 文章目的 现代很多人控制不住自己的情绪，随意释放它，导致人生悲剧。 写文目的就是让大家理解情绪，学会控制情绪，和自己的情绪和平相处。 一 何为情绪 情绪，人面对外界事物时的主观体验，包含：喜怒哀惧爱恶欲。 二 情绪分类 主观意念为主引发的情绪：喜怒哀爱恶 客观因素为主引发的情绪：惧恶欲 二.一分类的依据 客观型我又称之为不可控型，它不是重点，所以先讲 恐惧、紧张、焦虑 这一类的情绪，很大一部分是来源于未知，是人面对未知的自然生理反应，根本就不可控。你需要了解它感受它，放弃掌控未知的妄想，直面你未知的东西。 直面未知以后，这一类情绪的影响会降到最低，但永远不能根除。]]></summary></entry></feed>
